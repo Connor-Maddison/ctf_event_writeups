@@ -1,4 +1,4 @@
-# PseudoRandom | *Web / Cloud*
+# Rose| *Web / Cloud*
 
 ## The task
 ![Screenshot of the task](/tenable_ctf_2023/rose/imgs/Task.png)
