@@ -6,3 +6,4 @@ This is my collection of writeups from various CTF events I took part in
 ---
 # Contents
 ### [Tenable CTF 2023](tenable_ctf_2023/Contents.md)
+### [Ping CTF 2023](ping_ctf_2023/Contents.md)
